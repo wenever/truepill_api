@@ -1,0 +1,17 @@
+[
+  {
+    "product_name": "product1",
+    "product_current_count": 100,
+    "product_manual_count": 100
+  },
+  {
+    "product_name": "product2",
+    "product_current_count": 0,
+    "product_manual_count": 0
+  },
+  {
+    "product_name": "product3",
+    "product_current_count": 93,
+    "product_manual_count": 93
+  }
+]
